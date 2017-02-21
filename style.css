@@ -1,0 +1,17 @@
+body {
+  background-color: #212d3d;
+  color: #ffffff;
+}
+
+.ui.huge.borderless.topmenu.menu {
+  background-color: #171a21;
+  box-shadow: #000000;
+  border: none;
+  padding: 50px;
+}
+
+.ui.tiny.borderless.bottommenu.menu {
+  background-color: #8f98a0;
+  box-shadow: #000000;
+  border: none;
+}
